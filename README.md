@@ -43,7 +43,7 @@ I focus on clean code, modern mobile architectures, and team-oriented developmen
 - **Kotlin** (Primary)
 - **Java**
 - **Dart**
-- **SQL**
+- **C++**
 - **C / C#** (academic & practice level)
 
 ---
